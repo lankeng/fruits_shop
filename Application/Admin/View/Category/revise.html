@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div class="title">商品分类修改</div>
+<div class="data-edit clear">
+	<form method="post">
+	<input type="hidden" value="{$cate.cid}" name="cid" />
+	<table>
+	<tr><td>分类名</td><td>父级分类</td></tr>
+	<tr><td><input type="text" value="{$cate.cname}" name="cname" /></td>
+		<td><select name="pid">
+			<option value="0">顶级分类</option>
+			<foreach name="category" item="v"><neq name="v.cid" value="$cate.cid">
+				<option value="{$v.cid}" <eq name="v.cid" value="$cate.pid">selected</eq> >{:str_repeat('--',$v['deep']).$v['cname']}</option>
+			</neq></foreach>
+		</select></td>
+	</tr>
+	<tr class="tr_btn center">
+		<td colspan="2"><input type="submit" value="确定修改" /><input type="reset" value="重置" /></td>
+	</tr>
+	</table>
+	</form>
+</div>
+
+</body>
+</html>

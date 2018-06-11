@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/fruit.css" />
+	<title></title>
+</head>
+<body>
+<div class="page">
+			<div class="header">
+				<div class="head">
+					<div class="headleft">
+						<span class="cha1">Vegetables & Fruits & Beverage </span>
+						<span class="cha2">
+							百果园
+						</span>
+						<present name="mid">
+						{$mname}，欢迎来到百果园！[<a href="__MODULE__/User/logout">退出</a>]
+						<else/>
+						<span class="cha3">
+							<a href="__MODULE__/User/login" style="color: darkgray;">登录</a>
+						</span>
+						<span class="cha4">
+							|
+						</span>
+						<span class="cha5">
+							<a href="__MODULE__/User/register" style="color: darkgray;">注册</a>
+						</span>
+						</present>
+					</div>
+					<div class="headright">
+						<a href="car.html"><img src="__PUBLIC__/image/mycar.jpg"/></a>
+					</div>
+				</div>
+				<div class="nav">
+					<ul>
+						<li><a href="__APP__/">首页</a></li>
+						<li><a href="#">进口水果</a></li>
+						<li><a href="#">新鲜蔬菜</a></li>
+						<li><a href="#">健康搭配</a></li>
+						<li><a href="#">特价专场</a></li>
+					</ul>
+					
+				</div>
+				<div class="">
+					<form >						
+						<input type="text" value="  新鲜水果" class="search"/>
+					</form>
+				</div>
+			</div>
+			<div class="content">
+				<div class="detail1">
+					<empty name="goods.thumb"><img src="__PUBLIC__/image/preview2.jpg"  style="width:456px;height:300px;"/><else/><img src="__PUBLIC__/uploads/{$goods.thumb}"  style="width:456px;height:300px;"/></empty>
+				</div>	
+				<div class="detail2">
+					<div class="detail3">
+						<p class="name1">{$goods.gname}</p><br>
+						<hr style="width: 800px;border: 1px dashed #A9A9A9;">
+						<div  class="info left">
+							<table>
+								<tr>
+									<th>售价：</th>
+									<td>
+										<span class="picenum2">
+											￥{$goods.price}
+										</span>
+										<span class="picenum3">
+											￥18.00
+										</span>
+									</td>
+								</tr>
+								<tr style="line-height: 30px">
+									<th>商品编号：</th>
+									<td>{$goods.identifier}</td>
+								</tr>
+								<tr style="line-height: 30px">
+									<th>累计销量：</th>
+									<td>1000</td>
+								</tr>
+								<tr style="line-height: 30px">
+									<th>评价：</th>
+									<td>1000</td>
+								</tr>
+								<tr style="line-height: 30px">
+									<th>配送至：</th>
+									<td>北京（免运费）</td>
+								</tr>
+								<tr style="line-height: 30px">
+									<th>购买数量：</th>
+									<td>
+										<input type="button" value="-" class="cnt-btn" />
+										<input type="text" value="1" id="num" class="num-btn" />
+										<input type="button" value="+" class="cnt-btn" />
+									</td>
+								</tr>
+								<tr>
+									<td><a href="" class="resist" onclick="addCart()"><img src="__PUBLIC__/image/car.jpg"/>加入购物车</a></td>
+									<td><a href="" class="buy">立即购买</a></td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer">
+				<img src="__PUBLIC__/image/footer.jpg"/>
+			</div>
+		</div>
+<script>
+	//购买数量加减
+	$(".cnt-btn").click(function(){
+		var num = parseInt($("#num").val());
+		if ($(this).val() === '-') {
+			if ( num=== 1) return;
+			$("#num").val(num-1);
+		}else if ($(this).val() === '+') {
+			if (num === {$goods.stock}) return;
+			$("#num").val(num+1);
+		}
+	});
+	//自动纠正购买数量
+	$("#num").keyup(function(){
+		var num = parseInt($(this).val());
+		if(num<1){ 
+			$(this).val(1);
+		}else if(num > {$goods.stock}){
+			$(this).val({$goods.stock});
+		}
+	});
+	//添加购物车
+	function addCart(){
+		var num = $("#num").val();
+		window.location.href = '__MODULE__/Cart/add/gid/{$gid}/num/'+num;
+	}
+</script>
+</body>
+</html>

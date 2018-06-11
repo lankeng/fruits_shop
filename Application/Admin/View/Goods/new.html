@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div class="title">商品添加 - 请选择分类</div>
+<div class="data-list clear">请选择商品分类：
+	<select name="cid" onchange="getGoodsByCid(this)">
+		<option value="0">未选择</option>
+		<foreach name="category" item="v">
+		<option value="{$v.cid}" >
+			{:str_repeat('--',$v['deep']).$v['cname']}
+		</option>
+		</foreach>
+	</select>
+</div>
+<script>
+    function getGoodsByCid(obj) {
+        window.location.href = "__ACTION__/cid/" + $(obj).val();
+    }
+</script>
+
+</body>
+</html>

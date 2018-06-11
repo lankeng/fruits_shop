@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div id="slide">
+	<volist name="cate" id="v1" offset="0" length="9"><div class="cate">
+		<div class="cate1 left"><a href="__CONTROLLER__/find/cid/{$v1.cid}">{$v1.cname}</a></div>
+		<div class="subitem" style="display:none;">
+			<present name="v1.child"><volist name="v1.child" id="v2" offset="0" length="7">
+			<dl><dt><a href="__CONTROLLER__/find/cid/{$v2.cid}">{$v2.cname}</a></dt><dd>
+				<present name="v2.child"><volist name="v2.child" id="v3" offset="0" length="5">
+				|<a href="__CONTROLLER__/find/cid/{$v3.cid}">{$v3.cname}</a>
+				</volist></present></dd>
+			</dl>
+			</volist></present>
+		</div>
+	</div></volist>
+	<div class="clear"></div>
+</div>
+<div id="hot" class="left"></div>
+<div id="news" class="right">新闻列表</div>
+<div class="clear"></div>
+<div id="best">
+	<div class="best-img left"></div>
+	<foreach name="best" item="v">
+	<ul class="item left">
+		<li><a href="__CONTROLLER__/goods/id/{$v.gid}" target="_blank"><empty name="v.thumb"><img src="__PUBLIC__/image/preview.jpg"><else/><img src="__PUBLIC__/uploads/thumb/{$v.thumb}"></empty></a></li>
+		<li class="goods"><a href="__CONTROLLER__/goods/id/{$v.gid}" target="_blank">{$v.gname}</a></li>
+		<li class="price">￥{$v.price}</li>
+	</ul>
+	</foreach>
+	<div class="clear"></div>
+</div>
+<script>
+	$(".cate").hover(function(){
+		$(this).find(".subitem").show();
+		$(this).find("a").addClass("on");
+	},function(){
+		$(this).find(".subitem").hide();
+		$(this).find("a").removeClass("on");
+	});
+</script>
+</body>
+</html>

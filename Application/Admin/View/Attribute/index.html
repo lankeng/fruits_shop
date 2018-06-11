@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div class="title">商品属性列表</div>
+<div class="title-btn left"><a href="__CONTROLLER__/add/cid/{$cid}">添加属性</a></div>
+<div class="data-list clear">请选择商品分类：
+	<select name="cid">
+		<empty name="category"><option value="-1">未选择</option></empty>
+		<foreach name="category" item="v">
+			<option value="{$v.cid}" <eq name="v.cid"
+value="$cid">selected</eq> >{:str_repeat('--',$v['deep']).$v['cname']}
+</option>
+		</foreach>
+	</select>
+	<table border="1">
+		<tr><th>属性名</th><th>属性默认值</th><th width="120">操作</th></tr>
+		<foreach name="attr" item="v">
+			<tr><td>{$v.aname}</td><td>{$v.a_def_val}</td><td class="center">
+<a  href="__CONTROLLER__/revise/aid/{$v.aid}/cid/{$v.cid}">修改</a> 
+<a  href="__CONTROLLER__/del/aid/{$v.aid}/cid/{$v.cid}">删除</a></td></tr>
+		</foreach>
+	</table>
+</div>
+<script>
+	$("select").change(function(){
+		window.location.href = "__ACTION__/cid/" + $(this).val();
+	});
+	$("tr:odd").addClass("odd");
+</script>
+
+</body>
+</html>

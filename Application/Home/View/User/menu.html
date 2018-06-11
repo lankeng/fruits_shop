@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<ul class="menu left">
+	<li><a href="__MODULE__/User/index" id="User_index">个人信息</a></li>
+	<li>我的订单</li>
+	<li>我的关注</li>
+	<li><a href="__MODULE__/User/addr" id="User_addr">收货地址</a></li>
+	<li>消费记录</li>
+	<li><a href="__MODULE__/Cart/index" id="Cart_index">购物车</a></li>
+</ul>
+<script>
+$("#{$Think.CONTROLLER_NAME}_{$Think.ACTION_NAME}").addClass("curr");
+</script>
+</body>
+</html>

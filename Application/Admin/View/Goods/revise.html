@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<link href="__PUBLIC__/ueditor/themes/default/css/umeditor.min.css" rel="stylesheet" />
+<script src="__PUBLIC__/ueditor/third-party/jquery.min.js"></script>
+<script src="__PUBLIC__/ueditor/umeditor.config.js"></script>
+<script src="__PUBLIC__/ueditor/umeditor.min.js"></script>
+<script src="__PUBLIC__/ueditor/lang/zh-cn/zh-cn.js"></script>
+<script>
+    $(function () {
+        UM.getEditor('myEditor');
+    });
+</script>
+
+</head>
+<body>
+<div class="title">商品修改页面</div>
+<div class="data-edit clear">
+	<form method="post" enctype="multipart/form-data">
+	<table>
+		<tr><th>商品名：</th><td><input type="text" name="gname" value="{$goods.gname}"/></td></tr>
+		<tr><th>商品编号：</th><td><input type="text" name="identifier" value="{$goods.identifier}"/></td></tr>
+		<tr><th>商品价格：</th><td><input type="text" name="price" value="{$goods.price}"/></td></tr>
+		<tr><th>商品库存：</th><td><input type="text" name="stock" value="{$goods.stock}"/></td></tr>
+		<tr><th>商品图片：</th><td><input type="file" name="thumb" class="file" /></td></tr>
+		<tr><th>是否上架：</th><td><select name="status">
+			<option value="yes" <eq name="goods.status" value="yes">selected</eq> >是</option>
+			<option value="no" <eq name="goods.status" value="no">selected</eq>>否</option>
+		</select></td></tr>
+		<tr><th>首页推荐：</th><td><select name="is_best">
+			<option value="yes" <eq name="goods.is_best" value="yes">selected</eq> >是</option>
+			<option value="no" <eq name="goods.is_best" value="no">selected</eq>>否</option>
+		</select></td></tr>
+		<tr><th>商品描述：</th><td><script type="text/plain" id="myEditor" name="description">{$goods.description}</script></td></tr>
+		<foreach name="attr" item="v">
+			<tr><th>{$v.aname}：</th><td><present name="v.a_def_val.1">
+				<select name="attr[{$v.aid}]">
+					<option value="0">未选择</option>
+					<foreach name="v.a_def_val" item="vv">
+						<option value="{$vv}" <eq name="v.avalue" value="$vv">selected</eq>>{$vv}</option>
+					</foreach>
+				</select>
+			<else/>
+				<input type="text" name="attr[{$v.aid}]" value="{$v.avalue}"/>
+			</present></td></tr>
+		</foreach>
+		<tr class="tr_btn center">
+			<td colspan="2"><input type="submit" value="确定" /><input type="reset" value="清除" /></td>
+		</tr>
+	</table>
+	</form>
+</div>
+</body>
+</html>

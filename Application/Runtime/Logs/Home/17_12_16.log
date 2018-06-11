@@ -1,0 +1,2553 @@
+[ 2017-12-16T14:46:25+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:46:25+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:46:34+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:46:34+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:52:21+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:52:21+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:52:23+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:52:23+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:53:45+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:53:45+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:53:45+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:53:46+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:54:00+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:54:00+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:54:00+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:54:00+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:54:09+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:54:09+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:54:09+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:54:09+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:59:06+08:00 ] 127.0.0.1 /fruits_shop/login.html
+ERR: 无法加载控制器:Login
+
+[ 2017-12-16T14:59:11+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:59:11+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T14:59:59+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T14:59:59+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T14:59:59+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T14:59:59+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T14:59:59+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T14:59:59+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T14:59:59+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:00:00+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:00:00+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:00:00+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:50+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:50+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:03:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:04:26+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:04:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:04:46+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:04:46+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:05:10+08:00 ] 127.0.0.1 /fruits_shop/Applicaton/Home/View/User/login.html
+ERR: 无法加载控制器:Applicaton
+
+[ 2017-12-16T15:06:31+08:00 ] 127.0.0.1 /fruits_shop/Applicaton/Home/View/User/login.html
+ERR: 无法加载控制器:Applicaton
+
+[ 2017-12-16T15:06:46+08:00 ] 127.0.0.1 /fruits_shop/Applicaton/Home/View/User/login.html
+ERR: 无法加载控制器:Applicaton
+
+[ 2017-12-16T15:07:06+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:07:06+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:07:06+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:07:06+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:07:06+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:07:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:07:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:07:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:11+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:12+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:10:51+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:24+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:24+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:25+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:25+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:25+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:25+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:25+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:25+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:25+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:27+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:27+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:12:27+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:13+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:13+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:13+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:13+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:13+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:13+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:13+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:13+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:14:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/car.html
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:52+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/car.html
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:55+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:55+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:55+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:55+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:55+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:55+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:55+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:15:55+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:03+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:03+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:03+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:03+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:03+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:03+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:03+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:03+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:07+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:08+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:16:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:23+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:24+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:28+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:28+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:28+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:28+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:28+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:29+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:29+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:29+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:17:29+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:19:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:19:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:19:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:19:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:19:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:19:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:19:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:19:26+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:12+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:12+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:12+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:14+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:15+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:16+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:17+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:18+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:18+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:18+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:18+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:18+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:18+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:19+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/member.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:19+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:19+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:20:31+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__APP__/
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:21:38+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:21:38+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:21:52+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:21:52+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:21:52+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:21:52+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:02+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:02+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:03+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:03+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:03+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:03+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:04+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:04+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:04+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:05+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:05+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:05+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:05+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:05+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:05+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:05+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:06+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:06+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:10+08:00 ] 127.0.0.1 /fruits_shop/login.html
+ERR: 无法加载控制器:Login
+
+[ 2017-12-16T15:22:13+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:22:13+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:23:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:23:26+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:23:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:23:26+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:24:21+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:21+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:21+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:22+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:29+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/fruit.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:29+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/css/style.css
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:29+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery-1.8.3.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:30+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/jquery.banner.revolution.min.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:30+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/js/banner.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:30+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:30+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__PUBLIC__follow.js
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:24:30+08:00 ] 127.0.0.1 /fruits_shop/Application/Home/View/User/__CONTROLLER__/captcha
+ERR: 无法加载控制器:Application
+
+[ 2017-12-16T15:35:39+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:35:39+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:35:40+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:35:40+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:37:46+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:37:46+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:37:46+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:37:53+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:37:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:37:53+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:38:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:38:31+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:42:04+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:42:04+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:42:15+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:42:15+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:42:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:42:31+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:42:31+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:42:44+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:42:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:42:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:42:55+08:00 ] 127.0.0.1 /fruits_shop/Index/menu
+ERR: 非法操作:menu
+
+[ 2017-12-16T15:43:07+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:43:07+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:43:07+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:43:07+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:43:15+08:00 ] 127.0.0.1 /fruits_shop/User/car.html
+ERR: 非法操作:car
+
+[ 2017-12-16T15:43:17+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:43:17+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:43:44+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:43:45+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:49:59+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:49:59+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:49:59+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:10+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:10+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:38+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:38+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:38+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:42+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:42+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:50+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:50:50+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:51:22+08:00 ] 127.0.0.1 /fruits_shop/Home/login
+ERR: 无法加载控制器:Login
+
+[ 2017-12-16T15:51:31+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:51:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:51:31+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:51:44+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:51:44+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T15:51:58+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:51:58+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:55:54+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:55:54+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:55:54+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:55:54+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:57:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T15:57:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:08:57+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:08:57+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:08:59+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:08:59+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:09:38+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:09:38+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:09:40+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:09:40+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:14:09+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:14:09+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:14:18+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:14:18+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:14:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:14:31+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:14:36+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:14:36+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:14:42+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:14:42+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:15:14+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:15:14+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:15:45+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:15:45+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:15:50+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:15:50+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:24:27+08:00 ] 127.0.0.1 /fruits_shop/Index/car.html
+ERR: 非法操作:car
+
+[ 2017-12-16T16:24:30+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:24:30+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:24:48+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:24:48+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:24:52+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:24:52+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:25:14+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:25:14+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:25:17+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:25:17+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:25:22+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:25:22+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:25:27+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:25:27+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:25+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:25+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:28+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:28+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:31+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:36+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:36+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:44+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:51+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:51+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:58+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:29:58+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:30:55+08:00 ] 127.0.0.1 /fruits_shop/Home/Cart/index
+ERR: Think\Controller:U方法不存在！
+
+[ 2017-12-16T16:30:56+08:00 ] 127.0.0.1 /fruits_shop/Home/Cart/index
+ERR: Think\Controller:U方法不存在！
+
+[ 2017-12-16T16:31:21+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:31:21+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:31:27+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:31:27+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:33:50+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:33:50+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:33:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:33:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:34:01+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:34:01+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:34:22+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:34:22+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:34:29+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:34:29+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:38:36+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:38:36+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:38:43+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:38:43+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:39:31+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:39:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:39:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:39:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:39:37+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:39:37+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:42:55+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:42:55+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:42:59+08:00 ] 127.0.0.1 /fruits_shop/Home/CartController/index
+ERR: 无法加载控制器:CartController
+
+[ 2017-12-16T16:43:10+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:43:10+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:43:25+08:00 ] 127.0.0.1 /fruits_shop/Home/CartController/index
+ERR: 无法加载控制器:CartController
+
+[ 2017-12-16T16:43:27+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:43:27+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:43:29+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:43:29+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:43:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:43:31+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:44:39+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:44:39+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:44:43+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:44:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:45:07+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:45:07+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:45:39+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:45:39+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:45:47+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:45:47+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:45:48+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:45:48+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:45:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:45:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:02+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:02+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:46:03+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:46:18+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:18+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T16:46:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:26+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:27+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:32+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:32+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:32+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:38+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:38+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:38+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:42+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:42+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:46:42+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:55:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:55:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:55:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:55:58+08:00 ] 127.0.0.1 /fruits_shop/Home/Cart/Cart/index
+ERR: 非法操作:Cart
+
+[ 2017-12-16T16:58:33+08:00 ] 127.0.0.1 /fruits_shop/Home/Cart/Cart/index
+ERR: 非法操作:Cart
+
+[ 2017-12-16T16:58:35+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:35+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:35+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:35+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:35+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:36+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:40+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:40+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:40+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:40+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:44+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:58:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:59:19+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T16:59:19+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:02+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:02+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:05+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:05+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T17:02:05+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T17:02:17+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:17+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:17+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:19+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:19+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T17:02:27+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:27+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T17:02:39+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:39+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:39+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:46+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:02:46+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:03:06+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:03:06+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:03:06+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:04:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:04:26+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:04:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:04:26+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:04:30+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:04:30+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T17:06:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:12+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:12+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:12+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:12+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:12+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:13+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:17+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:17+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:58+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:58+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:06:58+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:11:32+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:11:32+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:11:32+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:11:32+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:11:36+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:11:36+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:11:37+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:05+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:06+08:00 ] 127.0.0.1 /fruits_shop/Home/Cart/car.html
+ERR: 非法操作:car
+
+[ 2017-12-16T17:13:08+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:10+08:00 ] 127.0.0.1 /fruits_shop/Home/Cart/car.html
+ERR: 非法操作:car
+
+[ 2017-12-16T17:13:19+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:20+08:00 ] 127.0.0.1 /fruits_shop/Home/Cart/car.html
+ERR: 非法操作:car
+
+[ 2017-12-16T17:13:26+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:33+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:43+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:43+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:43+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:43+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:45+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:45+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:13:45+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:14:03+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:14:08+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:14:25+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:14:25+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:14:25+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:14:29+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:14:57+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:15:19+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:16:28+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:16:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:16:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:16:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:19:00+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:19:02+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:19:06+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:26:00+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:26:02+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:26:50+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:26:50+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:26:57+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:26:57+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:27:22+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:27:22+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:27:28+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:27:28+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:32:50+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:32:50+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:32:54+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:32:54+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:33:30+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:33:30+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:33:35+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:33:35+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:39:09+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:39:09+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:40:52+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:40:52+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:40:57+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:40:57+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:41:28+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:41:28+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:41:32+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:41:32+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:41:52+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:41:52+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:41:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:41:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:45:25+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:45:25+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:45:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:45:26+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:45:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:45:26+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:45:26+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:52:34+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:52:34+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:52:34+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:52:34+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:53:40+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:53:40+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:53:40+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:53:44+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:53:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:53:52+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:53:52+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T17:53:52+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T17:53:58+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:53:58+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T17:54:01+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:54:01+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:54:15+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:54:15+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T17:54:16+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:45:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:45:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:45:09+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:45:09+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:52:18+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:52:18+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:52:18+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:52:18+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:55:48+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:55:48+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T18:55:51+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:55:51+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:55:51+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:55:51+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:56:30+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:56:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:56:31+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:56:47+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:56:47+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:56:47+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:57:23+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:57:23+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:57:37+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:57:37+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:57:37+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:57:38+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:58:42+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:58:43+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:58:43+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:58:43+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:59:32+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:59:32+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:59:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T18:59:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:00:42+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:00:43+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:00:43+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:00:43+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:01:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:01:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:01:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:01:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:02:24+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:02:24+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:02:24+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:02:24+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:02:51+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:02:51+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:02:51+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:02:51+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:04:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:04:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:04:54+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:04:54+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:04:55+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:04:55+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:04:55+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:04:56+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:05:14+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:05:14+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:05:14+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:05:14+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:06:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:06:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:09:20+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:09:21+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:09:21+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:09:44+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:09:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:09:45+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:09:45+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:10:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:10:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:10:34+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:10:34+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:12:00+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:12:00+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:12:00+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:12:00+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:12:43+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:12:43+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:12:43+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:12:43+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:19+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:19+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:19+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:19+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:32+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:32+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:53+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:53+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:55+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:56+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:56+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:56+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:13:59+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:14:00+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:14:00+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:14:00+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:14:54+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:14:54+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:14:54+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:14:54+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:15:00+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:15:00+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:15:00+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:15:09+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:15:09+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:15:10+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:15:10+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:16:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:16:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:16:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:16:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:16:36+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:16:36+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:16:36+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:16:36+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:17:38+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:17:38+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:17:39+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:17:39+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:21+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:21+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:21+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:21+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:28+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:28+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:28+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:29+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:47+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:47+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:47+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:18:47+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:20:05+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:20:05+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:20:05+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:20:05+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:20:25+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:20:25+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:20:25+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:20:25+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:23:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:23:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:23:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:23:34+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:26:49+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:26:49+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:26:49+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:26:49+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:34:44+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:34:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:34:44+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:34:49+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:34:49+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T19:35:10+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:35:10+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:35:10+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:35:14+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:37:26+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:43:13+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:44:17+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:52:41+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:53:23+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:56:43+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T19:58:14+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:01:31+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:04:40+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:07:23+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:07:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:07:31+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:07:31+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:07:31+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:07:31+08:00 ] 127.0.0.1 /fruits_shop/Publicfollow.js
+ERR: 无法加载控制器:Publicfollow.js
+
+[ 2017-12-16T20:07:31+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:10:39+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:12:36+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:15:38+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:16:05+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:20:32+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:23:37+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:25:42+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:26:40+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:28:42+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:33+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:33+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:34+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:34+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:36+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:36+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:29:37+08:00 ] 127.0.0.1 /fruits_shop/Public/js/jquery-1.10.1.min.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:30:12+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:30:12+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2017-12-16T20:30:12+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+

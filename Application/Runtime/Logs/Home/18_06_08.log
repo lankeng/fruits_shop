@@ -1,0 +1,15 @@
+[ 2018-06-08T13:26:48+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2018-06-08T13:26:48+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+
+[ 2018-06-08T13:27:02+08:00 ] 127.0.0.1 /fruits_shop/index.php/login
+ERR: 无法加载控制器:Login
+
+[ 2018-06-08T13:27:08+08:00 ] 127.0.0.1 /fruits_shop/Public/gg_bd_ad_720x90.js
+ERR: 无法加载控制器:Public
+
+[ 2018-06-08T13:27:08+08:00 ] 127.0.0.1 /fruits_shop/Public/follow.js
+ERR: 无法加载控制器:Public
+

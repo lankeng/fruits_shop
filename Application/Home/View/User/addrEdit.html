@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div class="usercenter">
+<include file="User:menu" />
+	<div class="content left">管理收货地址
+		<form method="post">
+		<input id="address" type="hidden" value="" name="address" />
+		<table border="1">
+			<tr><th>收件人：</th><td><input type="text" value="{$addr.consignee}" name="consignee" /></td></tr>
+			<tr><th>收件地区：</th><td>
+				<select id="province" onchange="toCity()"><neq name="addr.area.0" value=""><option>{$addr.area.0}</option></neq></select>
+				<select id="city" onchange="toArea()"><option>{$addr.area.1}</option></select>
+				<select id="area"><option>{$addr.area.2}</option></select>
+				</td></tr>
+			<tr><th>详细地址：</th><td><input id="addr" type="text" value="{$addr.area.3}" /></td></tr>
+			<tr><th>手机：</th><td><input type="text" value="{$addr.phone}" name="phone" /></td></tr>
+			<tr><th>邮箱：</th><td><input type="text" value="{$addr.email}" name="email" /></td></tr>
+			<tr><td colspan="2" class="button center"><input type="submit" value="保存" /> <input type="reset" value="重置" /></td></tr>
+		</table>
+		</form>
+	</div>
+	<div class="clear"></div>
+</div>
+<script>
+	//在加载事件中载入省份
+	var xmldom = null;	//保存请求到的xml文档信息
+	$(function () {
+		$.ajax({ //利用ajax去服务器端请求xml信息
+			url: '__PUBLIC__/js/ChinaArea.xml',
+			dataType: 'xml',
+			type: 'get',
+			success: function (msg) {
+				xmldom = msg;
+				//msg会以xmldom文档节点对象返回
+				var province = $(msg).find('province');
+				$("#province").append("<option value=0>请选择</option>");
+				province.each(function () {
+					var name = $(this).attr('province');  //获得省份名称
+					var id = $(this).attr('provinceID'); //省份id信息
+					$("#province").append("<option value='" + id + "'>" + name + "</option>");
+				});
+			}
+		});
+	});
+	//通过onchange内容改变事件达到“省份和城市”关联效果
+	function toCity() {
+		//获得被切换的省份id信息
+		var pid = $("#province").val();
+		pid = pid.substr(0, 2);//获得value的前两位信息
+		//获得city信息，属性cityID的前两位是pid开始
+		var city = $(xmldom).find("City[CityID^=" + pid + "]");
+		$("#city").empty();
+		$("#city").append("<option value=0>请选择</option>");
+		$("#area").empty();
+		$("#area").append("<option value=0>请选择</option>");
+		//遍历city信息，赋值到select下拉列表中
+		city.each(function () {
+			var name = $(this).attr('City');
+			var id = $(this).attr('CityID');
+			$("#city").append("<option value='" + id + "'>" + name + "</option>");
+		});
+	}
+	function toArea() {
+		var pid = $("#city").val();
+		pid = pid.substr(0, 2);
+		//获得city信息，属性cityID的前两位是pid开始
+		var area = $(xmldom).find("Piecearea[PieceareaID^=" + pid + "]");
+		$("#area").empty();
+		$("#area").append("<option value=0>请选择</option>");
+		area.each(function () {
+			var name = $(this).attr('Piecearea');
+			var id = $(this).attr('PieceareaID');
+			$("#area").append("<option value='" + id + "'>" + name + "</option>");
+		});
+	}
+	//提交表单时检查并拼接完整地址
+	$("form").submit(function(){
+		var pro_val = $("#province").find("option:selected").text();
+		var city_val = $("#city").find("option:selected").text();
+		var area_val = $("#area").find("option:selected").text();
+		var addr = $("#addr").val();
+		if(pro_val === '请选择' || city_val === '请选择' || area_val === '请选择' || $.trim(addr)===''){
+			alert('请输入正确的地址');
+			return false;
+		}
+		$("#address").val(pro_val+','+city_val+','+area_val+','+addr);
+	});
+</script>
+
+</body>
+</html>

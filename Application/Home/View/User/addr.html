@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div class="usercenter">
+<include file="User:menu" />
+	<div class="content left">管理收货地址 <a href="__CONTROLLER__/addrEdit">修改地址</a>
+		<table border="1">
+			<tr><th>收件人：</th><td>{$addr.consignee}</td></tr>
+			<tr><th>详细地址：</th><td>{$addr.address}</td></tr>
+			<tr><th>手机：</th><td>{$addr.phone}</td></tr>
+			<tr><th>邮箱：</th><td>{$addr.email}</td></tr>
+		</table>
+	</div>
+	<div class="clear"></div>
+</div>
+</body>
+</html>
